@@ -5,7 +5,7 @@ const AddProduct = () => {
   const [product, setProduct] = useState({
     name: "",
     brand: "",
-    description: "",
+    desc: "",
     price: "",
     category: "",
     stockQuantity: "",
